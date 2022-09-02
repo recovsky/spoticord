@@ -15,10 +15,4 @@
 
 # 📝 Contact
 
- - AmelSoN#0001
-
-
-# 📁 Images
-
-![](https://user-images.githubusercontent.com/107122615/173146389-76d60990-03c4-4e2e-adfc-b60f78d4e785.png)
-![](https://media.discordapp.net/attachments/875476166440525852/984918173361008710/unknown.png)
+ - Recovsky#2988
